@@ -19,3 +19,8 @@ List of manim learning resources [Contributions welcome](https://github.com/xie1
 
 ### Youtube channel 
 
+
+## Line : Arrow/Vector: https://infograph.tistory.com/147
+
+
+
