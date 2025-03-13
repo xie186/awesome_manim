@@ -21,6 +21,12 @@ List of manim learning resources [Contributions welcome](https://github.com/xie1
 
 https://www.youtube.com/@heejinpark9989
 
+### Video links
+
+[A visual journey to convey complex messages through MAThematical ANIMation – manim](https://www.youtube.com/watch?v=3ZqV3rhEf4Q)
+
+
+[Manim - Plotting Graphs](https://www.youtube.com/watch?v=Ej3lbQObCKo)
 
 
 ## Line : Arrow/Vector: https://infograph.tistory.com/147
