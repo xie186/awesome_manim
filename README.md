@@ -1,6 +1,6 @@
 # awesome_manim
 
-List of manim learning resources [Contributions welcome](https://github.com/xie186/awesome-manim/blob/main/CONTRIBUTING.md)...
+List of manim learning resources [Contributions welcome](https://github.com/xie186/awesome_manim/blob/main/CONTRIBUTING.md)...
 
 ## Citation
 
