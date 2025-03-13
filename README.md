@@ -19,8 +19,22 @@ List of manim learning resources [Contributions welcome](https://github.com/xie1
 
 ### Youtube channel 
 
+https://www.youtube.com/@heejinpark9989
+
+
 
 ## Line : Arrow/Vector: https://infograph.tistory.com/147
+
+
+## Github 
+
+https://github.com/rhaos68/fourier
+
+
+
+
+
+
 
 
 
