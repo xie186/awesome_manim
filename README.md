@@ -31,6 +31,14 @@ https://www.youtube.com/@heejinpark9989
 https://github.com/rhaos68/fourier
 
 
+## Manim like tools 
+
+
+### mathlikeanim-rs
+
+https://github.com/MathItYT/mathlikeanim-rs
+
+
 
 
 
