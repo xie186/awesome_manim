@@ -36,6 +36,9 @@ https://www.youtube.com/@heejinpark9989
 
 https://github.com/rhaos68/fourier
 
+https://github.com/PyCodes-cloud/Manim-Cast
+
+
 
 ## Manim like tools 
 
