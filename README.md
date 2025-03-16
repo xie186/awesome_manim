@@ -48,6 +48,11 @@ https://github.com/PyCodes-cloud/Manim-Cast
 https://github.com/MathItYT/mathlikeanim-rs
 
 
+https://github.com/malhotra5/Manim-Tutorial/tree/master
+
+
+
+
 
 
 
