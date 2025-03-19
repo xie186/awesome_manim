@@ -38,6 +38,8 @@ https://github.com/rhaos68/fourier
 
 https://github.com/PyCodes-cloud/Manim-Cast
 
+https://github.com/sparshg/animations
+
 
 
 ## Manim like tools 
