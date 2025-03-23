@@ -21,6 +21,8 @@ List of manim learning resources [Contributions welcome](https://github.com/xie1
 
 https://www.youtube.com/@heejinpark9989
 
+https://www.youtube.com/@dan4life
+
 ### Video links
 
 [A visual journey to convey complex messages through MAThematical ANIMation – manim](https://www.youtube.com/watch?v=3ZqV3rhEf4Q)
