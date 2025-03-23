@@ -40,6 +40,9 @@ https://github.com/PyCodes-cloud/Manim-Cast
 
 https://github.com/sparshg/animations
 
+https://github.com/Dan4Life/AoC2024_Videos
+
+
 
 
 ## Manim like tools 
