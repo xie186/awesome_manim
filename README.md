@@ -45,6 +45,10 @@ https://github.com/sparshg/animations
 https://github.com/Dan4Life/AoC2024_Videos
 
 
+Manim intro
+https://docs.devtaoism.com/docs/html/index.html
+
+
 
 
 ## Manim like tools 
