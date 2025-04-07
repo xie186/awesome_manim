@@ -23,6 +23,8 @@ https://www.youtube.com/@heejinpark9989
 
 https://www.youtube.com/@dan4life
 
+https://www.youtube.com/@abdelhayouisaadan9855
+
 ### Video links
 
 [A visual journey to convey complex messages through MAThematical ANIMation – manim](https://www.youtube.com/watch?v=3ZqV3rhEf4Q)
